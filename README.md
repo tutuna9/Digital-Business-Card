@@ -2,7 +2,7 @@
 
 ## Description
 
-Creating a static digital business card where I learn:
+A static digital business card where I learn:
 - JSX
 - Custom Components
 - Styling
